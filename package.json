@@ -1,0 +1,22 @@
+{
+  "name": "leaningcss",
+  "version": "1.0.0",
+  "description": "just to practice ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufai-Alex/ImprovingCss.git"
+  },
+  "author": "Rufai Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufai-Alex/ImprovingCss/issues"
+  },
+  "homepage": "https://github.com/Rufai-Alex/ImprovingCss#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
